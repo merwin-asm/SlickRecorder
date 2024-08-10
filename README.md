@@ -2,7 +2,7 @@
 
 **Slick Recorder** is a lightweight and stylish recording application designed specifically for Linux. It offers a sleek user interface and powerful features to make your recording experience seamless and enjoyable.
 
-![Slick Recorder](https://via.placeholder.com/600x300?text=Slick+Recorder)  
+![Slick Recorder](Screenshot.png)  
 *Screenshot of Slick Recorder in action*
 
 ## Features
