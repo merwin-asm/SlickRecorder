@@ -29,6 +29,13 @@ You can install Slick Recorder via pip. Run the following command to get started
 ```bash
 pip install SlickRecorder
 ```
+
+## To Run!
+Just type in terminal:
+```bash
+SlickRecorder
+```
+
 ## License
 
 Slick Recorder is released under the MIT License. See the [LICENSE](LICENSE) file for more information.
