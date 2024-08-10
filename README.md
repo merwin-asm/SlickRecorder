@@ -1,6 +1,6 @@
 # Slick Recorder
 
-  <img  align="right" src="https://komarev.com/ghpvc/?username=cactochan&label=slickrec%20views&color=0e75b6&style=flat" alt="views" />
+  <img  align="right" src="https://komarev.com/ghpvc/?username=slickrec&label=Project%20Views&color=0e75b6&style=flat" alt="views" />
 
 **Slick Recorder** is a lightweight and stylish recording application designed specifically for Linux. It offers a sleek user interface and powerful features to make your recording experience seamless and enjoyable.
 
